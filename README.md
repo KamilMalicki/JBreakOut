@@ -9,9 +9,7 @@ Quick Exit: Exit the game with `Q` or `ESC`.
 Dynamic Gameplay: Break bricks with the bouncing ball to win!
 
 # How to Run
-Ensure Java is Installed: Verify that Java is installed on your system.
-Compile the Java File: Compile the Java file using any Java compiler or IDE.
-Run the Game: Execute the compiled Java class file to start playing.
+To run the game, you need to run the batch file "bat" on Windows, while working on Linux, the script file "sh" or manually write `java JBreakOut` in the terminal or in cmd. In both cases, we must have java runtime installed and if it is not installed, below is a link to the main page `https://www.java.com/pl/download/manual.jsp`
 
 # Controls
 `UP` Arrow Key: Move the paddle up.
